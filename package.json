@@ -1,5 +1,5 @@
 {
-  "name": "@mahasooq/react-facebook-login",
+  "name": "react-fb-login",
   "version": "4.1.1",
   "description": "A Component React for Facebook Login",
   "main": "dist/facebook-login-with-button.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahasooq/react-facebook-login.git"
+    "url": "git+https://github.com/mahasooq/react-fb-login.git"
   },
   "keywords": [
     "react",
